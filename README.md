@@ -14,7 +14,7 @@ To purchase this product, please transfer **$500** to one of the following walle
 - **Bitcoin (BTC):** `bc1qra7aw9jlr4xvlh70aak2fgu9jfnjjal684ak8n`
 - **USDT (TRX Tether):** `TKfM4jzYKaTaFZqEnPbdXLt5HH6apegnGu`
 
-After making the payment, please send the payment receipt to the WhatsApp number **+1 770 746 4350**. Once the payment is confirmed, the program's password will be sent to you.
+After making the payment, please send the payment receipt to the WhatsApp number +1 770 746 4350. Once your payment is verified, you will automatically receive the file and password.
 
 ## Installation and Usage
 1. Clone the repository:
